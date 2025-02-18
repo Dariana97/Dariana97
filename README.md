@@ -9,7 +9,7 @@
 
 ### 🌱 Currently Learning
 - **Flutter for Mobile Applications** 📱
-- **Blockchain Development & Smart Contracts** 🔗
+- **Bootcamp FrontEnd Development** 💻
 
 ### 📫 Contact Me
 - **Email:** cabrejadariana10@gmail.com
@@ -32,7 +32,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p style="display:flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dariana97&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=dariana97&show_icons=true&locale=en" alt="GitHub Stats" />
