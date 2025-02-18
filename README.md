@@ -36,7 +36,7 @@ A real estate web application built with C# and .NET MVC, featuring property lis
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/9550524a-d789-45b1-ad6a-b7ba5db6dff7" alt="RealEstate App Screenshot" width="400"/>
-  <img src="https://github.com/user-attachments/assets/e61a7c80-9d40-43f7-9c4c-a5da1ffed112" alt="RealEstate App Screenshot" width="400"/>
+  <img src="https://github.com/user-attachments/assets/d1aaedb4-d137-4671-a923-ef2f2ed0e468" alt="RealEstate App Screenshot" width="400"/>
 </p>
 
 
@@ -45,10 +45,8 @@ A real estate web application built with C# and .NET MVC, featuring property lis
 A secure platform for freelancers and clients to collaborate, including payment processing.
 
 <p>
-  <img src="https://github.com/user-attachments/assets/65cbfa65-ac27-413e-9ca8-9510309ae518" alt="WorkSynergy Screenshot" width="400"/>
-  <img src="https://github.com/user-attachments/assets/2f0607c9-ba2a-45f6-9756-1d3ed119f4dc" alt="WorkSynergy Screenshot" width="600"/>
+  <img src="https://github.com/user-attachments/assets/2f0607c9-ba2a-45f6-9756-1d3ed119f4dc" alt="WorkSynergy Screenshot" width="900"/>
 </p>
-
 
 🔗 **[More Projects](https://github.com/dariana97?tab=repositories)**
 
